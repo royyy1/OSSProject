@@ -6,7 +6,7 @@
 
   <groupId>io.github.royyy1</groupId>
   <artifactId>assignment</artifactId>
-  <version>1.0.0</version>
+  <version>1.0-SNAPSHOT</version>
 
   <name>Assignment Library for Tutorial</name>
   <description> This is sample library for a tutorial to publish to maven central</description>
